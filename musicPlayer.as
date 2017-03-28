@@ -153,6 +153,9 @@
 		{
 			doPause();
 		}
+		
+		
+		
 		//单击停止按钮时触发doStop()函数，同时改变播放暂停按钮的状态
 		private function clickStopButton(event:MouseEvent):void
 		{
